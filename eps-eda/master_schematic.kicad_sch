@@ -847,13 +847,13 @@
       (reference "Ca3") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/39f69e4c-3d98-4642-8cee-de7f9bf86b5e"
-      (reference "Cb1") (unit 1) (value "5uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "Cb1") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/602c5469-dbdd-462b-b8a9-809134f69468"
-      (reference "Cb2") (unit 1) (value "5uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "Cb2") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/f8f05b66-b025-4362-9986-29b38a7b4af4"
-      (reference "Cb3") (unit 1) (value "5uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "Cb3") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/26a06af6-a463-4c0b-bc99-b7ef2964e4cd/68ee057d-8a81-4aa4-8890-50b1d294969a"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -875,6 +875,9 @@
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/4e16fedc-a38b-401e-a5de-03896de0e471/ebb75d9d-2dfd-4f40-90a8-73b11a1cc4ad"
       (reference "D9") (unit 1) (value "YELLOW") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/522a7011-337b-43be-8c27-ee419ed6ac84"
+      (reference "D_3.3") (unit 1) (value "PD3S230LQ-7") (footprint "footprints3:PD3S230LQ-7")
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/4bff1f15-0047-457d-ac78-28e14a16e610"
       (reference "Din1") (unit 1) (value "DIODE") (footprint "Diode_SMD:D_0805_2012Metric")
