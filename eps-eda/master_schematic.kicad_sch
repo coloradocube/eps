@@ -685,6 +685,7 @@
     (path "/26a06af6-a463-4c0b-bc99-b7ef2964e4cd" (page "3"))
     (path "/009ce997-1584-43ca-93af-c5bcacd4d4e9" (page "5"))
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc" (page "6"))
+    (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/99992e40-dc20-4a11-86ba-f447f640311b" (page "8"))
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/4e16fedc-a38b-401e-a5de-03896de0e471" (page "#"))
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/a47b42ae-0735-4637-85df-404ec278273a" (page "#"))
   )
@@ -746,6 +747,9 @@
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/1ac92257-5492-4d2a-98ff-a49461542965"
       (reference "#PWR027") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/99992e40-dc20-4a11-86ba-f447f640311b/61c56995-1f38-4247-871c-79e0c9e5ef8c"
+      (reference "#PWR029") (unit 1) (value "GND") (footprint "")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/a681347c-2da8-48f2-88a6-f192a29fe2c6"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
@@ -861,6 +865,9 @@
     (path "/26a06af6-a463-4c0b-bc99-b7ef2964e4cd/5a3951b7-e0b9-49d1-921c-e13454786451"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
+    (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/99992e40-dc20-4a11-86ba-f447f640311b/be4e4217-76b2-49d6-ac01-d4e643194de5"
+      (reference "D4") (unit 1) (value "PD3Z284C3V6-7") (footprint "zener_ovp:PD3Z284C3V6-7")
+    )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/4e16fedc-a38b-401e-a5de-03896de0e471/aa552342-8f67-489a-844d-ebd2bce3cdd6"
       (reference "D5") (unit 1) (value "RED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
@@ -905,6 +912,9 @@
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/4e6870e4-1f97-40e7-8a7a-56d8572ba4b0"
       (reference "L3") (unit 1) (value "744316100") (footprint "footprints1:744316100")
+    )
+    (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/99992e40-dc20-4a11-86ba-f447f640311b/f968db49-d235-4124-9198-1a48098a8944"
+      (reference "Q2") (unit 1) (value "FZT688BTA") (footprint "fzt688bta_footprint:SOT230P700X180-4N")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/25c3edd1-654a-424f-b192-1d4ebd3105bd"
       (reference "R1") (unit 1) (value "PSF4NTEBL500F") (footprint "psf4nt:PSF4NTEBL500F")
@@ -968,6 +978,9 @@
     )
     (path "/3a06e4e0-634b-426a-a0ab-d37016f35ddc/4e16fedc-a38b-401e-a5de-03896de0e471/c3599fdc-fa7a-4fa9-ae64-07850e64f222"
       (reference "R23") (unit 1) (value "330") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/99992e40-dc20-4a11-86ba-f447f640311b/6add0acd-edb2-4195-8baa-f2cc902d5d3d"
+      (reference "R_3.3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/59a4dc33-016c-4cea-b648-6fe1c8836f68/2ce4fb29-0ccb-4d7f-a490-6e4518b7173f"
       (reference "Ra1") (unit 1) (value "732K") (footprint "Resistor_SMD:R_0603_1608Metric")
