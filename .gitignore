@@ -22,10 +22,11 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.xml
-*.csv
-*.xls
-*.xlsx
+# Note: Saving the BOM files for education
+#*.xml
+#*.csv
+#*.xls
+#*.xlsx
 
 # Archives
 *.zip
